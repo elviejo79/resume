@@ -8,7 +8,13 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v3
-
+    - name: Transform resume in yaml format to json
+      uses: fabasoad/yaml-json-xml-converter-action@main
+        id: json2yaml
+        with:
+          path: 'resume.yml'
+          from: 'yaml'
+          to: 'json'
     - name: Update Resume Gist
       uses: exuanbo/actions-deploy-gist@v1
       with:
