@@ -7,7 +7,7 @@ basics:
   phone: '+524921228171'
   url: 'https://www.linkedin.com/in/elviejo79/'
   summary: >-
-    I’m a software developer, CS teacher and Entrepreneur with experience
+    I'm a software developer, CS teacher and Entrepreneur with experience
     creating small tech companies. I love leading small focused teams to achieve
     success and I also love teaching introduction to programming to high school,
     college and graduated students.
@@ -57,7 +57,7 @@ work:
     startDate: '2010-02-28'
     endDate: '2010-08-31'
     highlights: []
-    summary: |-
+    summary: >-
       I started the company step strategic vision
       Trained the first employees in Scrum, Kanban and Unit Testing
     location: 'Zacatecas, México'
@@ -90,7 +90,7 @@ work:
     startDate: '2001-07-31'
     endDate: '2003-08-31'
     highlights: []
-    summary: |-
+    summary: >-
       Write SQL queries..
       Create AD-Hoc reports to decision makers
       Ensure the quality of the Database
