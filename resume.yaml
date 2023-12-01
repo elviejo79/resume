@@ -145,7 +145,6 @@ certificates:
     issuer: Coursera Course Certificates
     startDate: '2016-03-31'
     url: 'https://www.coursera.org/account/accomplishments/verify/DZLDNG6LW9R5'
-publications: []
 skills:
   - name: PHP
   - name: MySQL
