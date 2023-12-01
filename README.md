@@ -1,4 +1,6 @@
-# A Template repository to write your resume in yaml and display in a nice formated page.
+# resume.yaml
+
+Write your resume in yaml and display in a nice formated page.
 
 https://jsonresume.org/ is a great idea. 
 
