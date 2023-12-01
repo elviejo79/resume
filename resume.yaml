@@ -1,22 +1,25 @@
 meta:
   theme: "elegant"
 basics:
-  name: "Thomas Davis"
-  label: "Web Developer"
-  image: "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4"
+  name: Alejandro Garcia
+  label: Project Manager, Staff Engineer
+  image: https://0.gravatar.com/avatar/19d64ca06be40401c7eebefd119d3516233d9a89b5742b4336f51667de6bc189?size=128
   summary: "I'm a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who prioritizes user feedback first and foremost. I'm generally very flexible when investigating new roles. "
-  website: "https://lordajax.com"
-  email: "thomasalwyndavis@gmail.com"
+  website: https://elviejo79.github.io
+  email: agarciafdz@jag.is
   location:
-    city: "Melbourne"
-    countryCode: "AU"
+    city: Zacateca
+    countryCode: MX
   profiles:
-    - username: "ajaxdavis"
-      url: "https://twitter.com/ajaxdavis"
+    - username: "agarciafdz"
+      url: "https://twitter.com/agarciafdz"
       network: "twitter"
-    - url: "https://github.com/thomasdavis"
-      username: "thomasdavis"
+    - url: "https://github.com/elviejo79"
+      username: "elviejo79"
       network: "github"
+    - network: linkedin
+      name: "elviejo79"
+      url: https://www.linkedin.com/in/elviejo79/
 education:
   - endDate: "2009-12-12"
     startDate: "2008-02-12"
@@ -175,7 +178,6 @@ work:
     endDate: "2012-06-01"
     startDate: "2011-01-01"
 interests:
-  - name: "Gardening"
-  - name: "Music / Jamming"
+  - name: "Chess"
   - name: "Reading / Writing"
   - name: "Open Source"
