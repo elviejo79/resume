@@ -10,7 +10,7 @@ And then it can be pretty printer using your username (https://registry.jsonresu
 However I prefer to write yaml rather than json.
 So this repository has a resume.yaml file with a github action gets transformed to the necesary gist.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elviejo79/)
+- [ ] Open in Gitpod https://gitpod.io/#https://github.com/elviejo79/resume
 
 ## Basic functionality.
 The easy way to host your resume is by making a `resume.json` on gist.github.com. 
@@ -30,7 +30,8 @@ If you checkout the `.github/workflows/gist.yml` file you should be able to figu
 ## The basic steps are 
 
 - [ ] Create a gist called `resume.json`
-- [ ] Create or fork this repo and commit your updated `resume.json` 
+- [ ] Fork this repo and commit your updated `resume.yaml`
+- [ ] Open in Gitpod https://gitpod.io/#https://github.com/elviejo79/resume
 - [ ] Create a Personal Github token that has just the `gist` scope 
 - [ ] Go to your repository settings, then to the secrets page, and add a new secret called `TOKEN` with the value being from the token you created in 3) 
 - [ ] Now simply push to your repo, and your `resume.yaml` from the repo, will publish and override your gist `resume.json` and thus updating the registry to match
