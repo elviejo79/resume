@@ -18,7 +18,7 @@ jobs:
         to: "json"
     - name: Print result with cat
       run: |
-        cat << EOF
+        cat << EOF > resume.json
         ${{ steps.yaml2json.outputs.output }}
         EOF
     - name: Update Resume Gist
