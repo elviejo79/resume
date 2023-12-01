@@ -18,15 +18,15 @@ You can just edit your Gist using the online GUI and it should update within les
 
 ## But
 
-If you would like to have your `resume.json` in a repository aka like this. 
+If you would like to have your `resume.yaml` in a repository aka like this. 
 
-You can set up a Github Action that automatically updates your gist `resume.json` to match what is in your repo everytime you push. 
+You can set up a Github Action that automatically updates your gist `resume.yaml` to match what is in your repo everytime you push. 
 
-If you checkout the `.github/workflows/gist.yml` file you should be able to figure it out with relative ease. Or feel free to ping me an issue. 
+If you checkout the `.github/workflows/gist.yml` file you should be able to figure it out with relative ease.  
 
 ## The basic steps are 
 
-- [ ]Create a gist called `resume.json`
+- [ ] Create a gist called `resume.json`
 - [ ] Create or fork this repo and commit your updated `resume.json` 
 - [ ] Create a Personal Github token that has just the `gist` scope 
 - [ ] Go to your repository settings, then to the secrets page, and add a new secret called `TOKEN` with the value being from the token you created in 3) 
