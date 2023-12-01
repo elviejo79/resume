@@ -1,7 +1,9 @@
 name: Update Resume Gist
 
-on: push
-
+on: 
+ push:
+ workflow_dispatch:
+ 
 jobs:
   update-resume-gist:
     runs-on: ubuntu-latest 
@@ -15,6 +17,8 @@ jobs:
         input: "resume.yaml"
         from: "yaml"
         to: "json"
+    - name: Print result with printf
+      run: printf "%s" "${{ steps.yaml2json.outputs.output }}"
     - name: Print result
       run: echo "${{ steps.yaml2json.outputs.output }}"
   
