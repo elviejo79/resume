@@ -1,5 +1,4 @@
-name: Update Resume Gist
-
+name: Transfor resume.yaml to gist
 on: 
  push:
  workflow_dispatch:
@@ -17,11 +16,11 @@ jobs:
         input: "resume.yaml"
         from: "yaml"
         to: "json"
-    - name: Print result with printf
-      run: printf "%s" "${{ steps.yaml2json.outputs.output }}"
-    - name: Print result
-      run: echo "${{ steps.yaml2json.outputs.output }}"
-  
+    - name: Print result with cat
+      run: |
+        cat << EOF
+        ${{ steps.yaml2json.outputs.output }}
+        EOF
     - name: Update Resume Gist
       uses: exuanbo/actions-deploy-gist@v1
       with:
