@@ -1,5 +1,4 @@
 # resume.yaml
-
 Write your resume in yaml and display in a nice formated page.
 
 https://jsonresume.org/ is a great idea. 
@@ -10,6 +9,8 @@ And then it can be pretty printer using your username (https://registry.jsonresu
 
 However I prefer to write yaml rather than json.
 So this repository has a resume.yaml file with a github action gets transformed to the necesary gist.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elviejo79/)
 
 ## Basic functionality.
 The easy way to host your resume is by making a `resume.json` on gist.github.com. 
