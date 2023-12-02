@@ -166,6 +166,6 @@ languages:
   - fluency: Native Speaker
     language: Spanish
 meta:
-  theme: Kendall
+  theme: kendall
   version: v1.0.0
   canonical: https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json
