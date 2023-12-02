@@ -136,6 +136,8 @@ certificates:
     startDate: 2016-03-31
     url: https://www.coursera.org/account/accomplishments/verify/DZLDNG6LW9R5
 skills:
+  - name: Haskell
+  - name: Eiffel
   - name: PHP
   - name: MySQL
   - name: Software Development
@@ -164,5 +166,6 @@ languages:
   - fluency: Native Speaker
     language: Spanish
 meta:
+  theme: Kendall
   version: v1.0.0
   canonical: https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json
