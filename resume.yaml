@@ -139,19 +139,19 @@ skills:
   - name: Backend
     level: Senior 
     keywords:
-      - name: Haskell
-      - name: Eiffel
-      - name: PHP
-      - name: Python
-      - name: Linux
-      - name: Design Patterns
-      - name: Bash Scripting 
+      - Haskell
+      - Eiffel
+      - PHP
+      - Python
+      - Linux
+      - Design Patterns
+      - Bash Scripting 
   - name: Frontend
     level: Junior
     keywords:
-      - name: Typescript
-      - name: Elm
-      - name: htmx
+      - Typescript
+      - Elm
+      - htmx
   - name: Agile Methods / Project Management
     level: Senior
     keywords:
@@ -159,7 +159,7 @@ skills:
       - Scrum
       - PSP Personal Software Process
       - TOC thinking Processes
-      - name: Coaching & Mentoring
+      - Coaching & Mentoring
   - name: Ops
     level: Junior
     keywords:
@@ -169,9 +169,10 @@ skills:
   - name: Database
     level: Mid
     keywords:
-      - name: MySQL
-      - name: SQL
-      - name: Neo4j
+      - MySQL
+      - SQL
+      - Neo4j
+      - TypeDB
 languages:
   - fluency: Professional Working
     language: English
