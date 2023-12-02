@@ -4,15 +4,13 @@ basics:
   label: Project Manager at Input Output (IOHK)
   image: https://avatars.githubusercontent.com/u/1285916?v=4
   email: agarciafdz@gmail.com
-  phone: +524921228171
+  phone: '+524921228171'
   url: https://www.linkedin.com/in/elviejo79/
   summary: >-
     I'm a software developer, CS teacher and Entrepreneur with experience
     creating small tech companies. I love leading small focused teams to achieve
     success and I also love teaching introduction to programming to high school,
     college and graduated students.
-
-
     My favorite technologies right now: Elixir, Elm, Haskell, GraphQL, Emacs,
     Ubuntu.
   location:
@@ -104,6 +102,7 @@ education:
     area: Software Engineering, Project Management
     studyType: Master in Software Engineering
     startDate: 2010-12-31
+    url: 
   - institution: Tecnológico de Monterrey
     area: Systems Engineering
     studyType: BS
