@@ -1,4 +1,4 @@
-$schema: https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json
+# yaml-language-server: $schema=https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json
 basics:
   name: Alejandro Garcia
   label: Project Manager at Input Output (IOHK)
@@ -70,15 +70,9 @@ work:
     endDate: '2006-02-28'
     summary: >-
       5 friends and I started this software Company in Zacatecas.
-
       Probably the first software company on the state. Although there some
       earlier individual attempts at it.
-
-
-
       Got it grow to 13 employees and Later "collapsed"
-
-
       I was director for a period of 2 years.
   - name: ITESM Campus Zacatecas
     position: DBA Servicios Escolares
