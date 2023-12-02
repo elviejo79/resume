@@ -136,30 +136,42 @@ certificates:
     startDate: 2016-03-31
     url: https://www.coursera.org/account/accomplishments/verify/DZLDNG6LW9R5
 skills:
-  - name: Haskell
-  - name: Eiffel
-  - name: PHP
-  - name: MySQL
-  - name: Software Development
-  - name: Linux
-  - name: Input Output (IOHK)
-  - name: CIMAT
-  - name: SQL
-  - name: Entrepreneurship
-  - name: REST
-  - name: Design Patterns
-  - name: Agile Methodologies
-  - name: Bash
-  - name: Web Applications
-  - name: Representational State Transfer (REST)
-  - name: Software Engineering
-  - name: Web Development
-  - name: JavaScript
-  - name: Programming
-  - name: Coaching & Mentoring
-  - name: Scrum
-  - name: Python
-  - name: Project Management
+  - name: Backend
+    level: Senior 
+    keywords:
+      - name: Haskell
+      - name: Eiffel
+      - name: PHP
+      - name: Python
+      - name: Linux
+      - name: Design Patterns
+      - name: Bash Scripting 
+  - name: Frontend
+    level: Junior
+    keywords:
+      - name: Typescript
+      - name: Elm
+      - name: htmx
+  - name: Agile Methods / Project Management
+    level: Senior
+    keywords:
+      - Kanban Trainner
+      - Scrum
+      - PSP Personal Software Process
+      - TOC thinking Processes
+      - name: Coaching & Mentoring
+  - name: Ops
+    level: Junior
+    keywords:
+      - Google Cloud
+      - AWS 
+      - REST ? 
+  - name: Database
+    level: Mid
+    keywords:
+      - name: MySQL
+      - name: SQL
+      - name: Neo4j
 languages:
   - fluency: Professional Working
     language: English
